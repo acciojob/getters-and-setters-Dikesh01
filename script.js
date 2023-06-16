@@ -11,7 +11,7 @@ class Person {
 		return this.name;
 	}
 	set age(newAge){
-		this.name = newAge;
+		this.age = newAge;
 	}
 }
 
